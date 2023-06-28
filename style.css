@@ -1,0 +1,24 @@
+body {
+    background-color:skyblue;
+}
+.title {
+    color: white;
+    background-color: #2f4f4f;
+    text-shadow: 1px 1px 2px black;
+    border-radius: 15px;
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    width: fit-content;
+    padding: 0 10px;
+    margin: 10px auto;
+    display: flex;
+}
+.cont {
+    border-radius: 15px;
+    background-image: url("/assets/sky.jpg");
+    border: 2px solid #2f4f4f;
+    width: 700px;
+    height: 350px;  
+    display: flex;
+    margin: auto;
+}
